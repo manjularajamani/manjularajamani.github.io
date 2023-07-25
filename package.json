@@ -1,0 +1,12 @@
+{
+  "name": "michaelvillar.com",
+  "version": "1.0.0",
+  "description": "personal site",
+  "main": "index.js",
+  "repository": "git@github.com:michaelvillar/michaelvillar.com.git",
+  "author": "<me@michaelvillar.com>",
+  "private": true,
+  "scripts": {
+    "build": "echo 'no build'"
+  }
+}
